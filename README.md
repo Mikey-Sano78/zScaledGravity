@@ -10,8 +10,8 @@ This paper proposes a unified framework where gravity strengthens exponentially 
 ## How to Cite  
 ```bibtex
 @article{Mikey2023,
-  title={z-Scaled Gravity: Dark Matter is an Artifact},
+  title={z-Scaled Gravity},
   author={Mikey},
-  year={2023},
+  year={2025},
   url={https://github.com/YourUsername/zScaledGravity-DarkMatterIsAnArtifact}
 }
