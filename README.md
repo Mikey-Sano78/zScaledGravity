@@ -15,3 +15,5 @@ This paper proposes a unified framework where gravity strengthens exponentially 
   year={2025},
   url={https://github.com/YourUsername/zScaledGravity-DarkMatterIsAnArtifact}
 }
+
+Seeking arXiv endorsement! Contact: [mikeysano7869@gmail.com]
