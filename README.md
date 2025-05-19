@@ -13,7 +13,7 @@ This paper proposes a unified framework where gravity strengthens exponentially 
   title={z-Scaled Gravity},
   author={Mikey},
   year={2025},
-  url=https://github.com/Mikey-Sano78/zScaledGravity/blob/main
+  url={https://github.com/Mikey-Sano78/zScaledGravity/blob/main}
 
 
 Seeking arXiv endorsement! Contact: [mikeysano7869@gmail.com]
